@@ -17,9 +17,9 @@ A brief description of what you are attemping to do.
 
 `I'm trying to use GCC 5.4 with the extension and it isn't working, description of my configuration below.`
 
-###3) VC++ version / Linux system / enviornment details
+###3) VC++ version / Linux system / environment details
 
-Your Visual Studio and VC++ version numer.  This can be seen in the VS Help, About menu. Look for Visual C++ for Linux Development.
+Your Visual Studio and VC++ version number.  This can be seen in the VS Help, About menu. Look for Visual C++ for Linux Development.
 
 Additional information like GCC, GDB versions is also helpful, as are details of your hardware if running on an embedded system.
 
@@ -37,7 +37,7 @@ Linux jinx 4.4.13-v7+ #894 SMP Mon Jun 13 13:13:27 BST 2016 armv7l GNU/Linux
 
 ###4) Steps required to reproduce
 
-Explanation of how to reproduce the probelm, e.g. libraries needed, propery page options set, sequence of build, debug steps, packages installed on Linux system, etc.
+Explanation of how to reproduce the problem, e.g. libraries needed, property page options set, sequence of build, debug steps, packages installed on Linux system, etc.
 
 ####Example:
 
@@ -63,7 +63,7 @@ Explanation of how to reproduce the probelm, e.g. libraries needed, propery page
 
 ###6) Expected Behavior
 
-What was the expected result of what you expected? HEre for example, "It should have built and hit the break point" would be sufficient, other cases may require more explanation to help us understand.
+What was the expected result of what you expected? Here for example, "It should have built and hit the break point" would be sufficient, other cases may require more explanation to help us understand.
 
 ###8) Additional information
 
