@@ -1,7 +1,6 @@
-# VSLinux
-Visual C++ for Linux Development
+# Visual C++ for Linux Development
 
-This repo is for the reporting of issues found within and when using Visual C++ for Linux Development.
+This repo is for the reporting of issues with the Visual C++ for Linux Development extension.
 
 ###Labels
 This is your best ways to interact directly with the Visual C++ for Linux Development team. We will be monitoring and responding to issues as best we can. Please attempt to avoid filing duplicates of open or closed items when possible. In the spirit of openness we will be tagging issues with the following:
