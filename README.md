@@ -3,10 +3,10 @@
 This repo is for the reporting of issues with the Visual C++ for Linux Development extension.
 
 ###Labels
-This is your best ways to interact directly with the Visual C++ for Linux Development team. We will be monitoring and responding to issues as best we can. Please attempt to avoid filing duplicates of open or closed items when possible. In the spirit of openness we will be tagging issues with the following:
+This is your best way to interact directly with the Visual C++ for Linux Development team. We will be monitoring and responding to issues as best we can. Please attempt to avoid filing duplicates of open or closed items when possible. In the spirit of openness we will be tagging issues with the following:
 
 - **bug** – We consider this issue to be a bug internally. This tag is generally for bugs in implemented features, or something we consider to be a “bug level” change. Things marked with Bug have a corresponding bug in on Microsoft’s internal bug tracking system.
-  - Example: Adding a library in linker command line get's added in middle of linker command instead of end
+  - Example: Adding a library in linker command line gets added in middle of linker command instead of end
 
 - **feature** – Denotes something that is not yet implemented.  
   - Example:  clang compiler support
@@ -28,7 +28,7 @@ Issues may be closed by the original poster at any time.  We will close issues i
 
 ###Important Links
 - Documentation:  https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/
-- Reases and Release Notes: https://visualstudiogallery.msdn.microsoft.com/725025cf-7067-45c2-8d01-1e0fd359ae6e
+- Releases and Release Notes: https://visualstudiogallery.msdn.microsoft.com/725025cf-7067-45c2-8d01-1e0fd359ae6e
 - VC++ Blog: https://blogs.msdn.microsoft.com/wsl
 - Our support email list: vcpplinux-support@microsoft.com
 
