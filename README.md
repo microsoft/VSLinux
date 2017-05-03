@@ -29,6 +29,7 @@ Issues may be closed by the original poster at any time.  We will close issues i
 ###Important Links
 - Documentation:  https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/
 - Releases and Release Notes: https://visualstudiogallery.msdn.microsoft.com/725025cf-7067-45c2-8d01-1e0fd359ae6e
+- Visual Studio 2017 15.2 Preview Release: https://www.visualstudio.com/vs/preview/
 - VC++ Blog: https://blogs.msdn.microsoft.com/wsl
 - Our support email list: vcpplinux-support@microsoft.com
 
