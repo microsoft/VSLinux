@@ -2,7 +2,7 @@
 
 This repo is for the reporting of issues with the Visual C++ for Linux Development extension.
 
-###Labels
+### Labels
 This is your best way to interact directly with the Visual C++ for Linux Development team. We will be monitoring and responding to issues as best we can. Please attempt to avoid filing duplicates of open or closed items when possible. In the spirit of openness we will be tagging issues with the following:
 
 - **bug** – We consider this issue to be a bug internally. This tag is generally for bugs in implemented features, or something we consider to be a “bug level” change. Things marked with Bug have a corresponding bug in on Microsoft’s internal bug tracking system.
@@ -20,13 +20,13 @@ This is your best way to interact directly with the Visual C++ for Linux Develop
 
 Additional tags may be used to denote specific types of issues. 
 
-###Closing
+### Closing
 Issues may be closed by the original poster at any time.  We will close issues if:
 - One week passes after the change goes out in a new release
 - An issue is clearly a dupe of another.  The duplicate will be linked
 - Any discussion that has clearly run its course
 
-###Important Links
+### Important Links
 - Documentation:  https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/
 - Releases and Release Notes: https://visualstudiogallery.msdn.microsoft.com/725025cf-7067-45c2-8d01-1e0fd359ae6e
 - Visual Studio 2017 15.2 Preview Release: https://www.visualstudio.com/vs/preview/
