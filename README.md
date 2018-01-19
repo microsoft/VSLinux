@@ -33,5 +33,9 @@ Issues may be closed by the original poster at any time.  We will close issues i
 - VC++ Blog: https://blogs.msdn.microsoft.com/wsl
 - Our support email list: vcpplinux-support@microsoft.com
 
+## Demos
+- [Visual C++ for Linux Development - Handling multiple connections](https://vimeo.com/251731898)
+- [Visual C++ for Linux Development - Setting up additional include directories](https://vimeo.com/251710903 )
+
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
