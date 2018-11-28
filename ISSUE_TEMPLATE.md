@@ -1,16 +1,16 @@
-Please use the following bug reporting template to help produce actionable and reproducible issues:
+## Bugs and Suggestions
+We encourage the reporting of bugs and new suggestions on the [Developer Community forum](https://developercommunity.visualstudio.com), this is centralized, better equipped for group voting, and has more visibility.
 
-* A brief description
+## Issue template (questions and ideas)
 
-* Expected results
+Please use the following template to post your questions or for discussing ideas:
 
-* Actual results (with build output window contents if applicable)
+* Capture in the title a brief description of your question or idea
 
-* VC++ version, Linux system name and version, GCC/GDB/gdbserver version, CPU arch, etc. If you are using a specific version of Linux on an embedded board, we might need to know about it to get a repro on similar hardware
+* In the content of the request provide a detailed description of your question or idea.
+  Include any expected results and images that may be useful to expose your idea.
 
-* Steps required to reproduce the error
-
-* Required packages and commands to install
+* Include Visual Studio version, Linux system name and version, GCC/GDB/gdbserver version, CPU arch
 
 See [our contributing instructions](/CONTRIBUTING.md) for assistance.
 
