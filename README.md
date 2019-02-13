@@ -1,23 +1,17 @@
 # Visual C++ for Linux Development
 
-This repo is for discussing existing or new features and for addressing questions related to the Visual C++ for Linux Development extension.
+This is a legacy repo that archives old discussion and questions related to the Visual C++ for Linux Development extension. Existing issues will be driven to completion.
 
 ## Bugs and Suggestions
-We encourage the reporting of bugs and new suggestions on the [Developer Community forum](https://developercommunity.visualstudio.com), this is centralized, better equipped for group voting, and has more visibility.
 
-## Labels
-This is your best way to interact directly with the Visual C++ for Linux Development team. We will be monitoring and responding to your questions as best we can. In the spirit of openness we will be tagging issues with the following:
+**New issues should not be opened on this repo.**
 
-- **feature** – Denotes something that is not yet implemented.  
-  - Example:  clang compiler support
-
-- **discussion** – Denotes a discussion on the board that does not relate to a specific feature.
-  - Example: Visual C++ for Linux Development is not open source 
-
-Additional tags may be used to denote specific types of issues. 
+Bugs and new suggestions should be reported on the [Developer Community forum](https://developercommunity.visualstudio.com). It is centralized, better equipped for group voting, and has more visibility.
 
 ## Closing
-Issues may be closed by the original poster at any time. An issue can be closed if:
+New issues will be closed. Bugs and suggestions should be reported on the [Developer Community forum](https://developercommunity.visualstudio.com).
+
+Existing issues may be closed by the original poster at any time. An issue can be closed if:
 - A request is a duplicate of another. The duplicate will be linked;
 - Any discussion that has run its course.
 
