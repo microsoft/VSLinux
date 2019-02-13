@@ -1,6 +1,6 @@
 # Visual C++ for Linux Development
 
-This is a legacy repo that archives old discussion and questions related to the Visual C++ for Linux Development extension.
+This is a legacy repo that archives old discussion and questions related to the Visual C++ for Linux Development extension. Existing issues will be driven to completion.
 
 ## Bugs and Suggestions
 
@@ -9,7 +9,7 @@ This is a legacy repo that archives old discussion and questions related to the 
 Bugs and new suggestions should be reported on the [Developer Community forum](https://developercommunity.visualstudio.com). It is centralized, better equipped for group voting, and has more visibility.
 
 ## Closing
-New issues will be closed immediately. Bugs and suggestions should be reported on the [Developer Community forum](https://developercommunity.visualstudio.com).
+New issues will be closed. Bugs and suggestions should be reported on the [Developer Community forum](https://developercommunity.visualstudio.com).
 
 Existing issues may be closed by the original poster at any time. An issue can be closed if:
 - A request is a duplicate of another. The duplicate will be linked;
