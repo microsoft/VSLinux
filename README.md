@@ -16,12 +16,11 @@ Existing issues may be closed by the original poster at any time. An issue can b
 - Any discussion that has run its course.
 
 ## Important Links
-- Developer Community forum for bugs and suggestions reporting: https://developercommunity.visualstudio.com
+- Developer Community forum for bugs, suggestions reporting and support: https://developercommunity.visualstudio.com
 - Documentation:  https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/
 - Releases and Release Notes: https://visualstudiogallery.msdn.microsoft.com/725025cf-7067-45c2-8d01-1e0fd359ae6e
 - Visual Studio 2017 Preview Release: https://www.visualstudio.com/vs/preview/
 - VC++ Blog: https://blogs.msdn.microsoft.com/vcblog
-- Our support email list: vcpplinux-support@microsoft.com
 
 ## Demos
 - [Visual C++ for Linux Development - Handling multiple connections](https://vimeo.com/251731898)
